@@ -5,4 +5,4 @@ for entr in sinchi-*.sh ; do
   done
   killall screen
   killall tg
-  echo 'Off!'
+echo 'Off!'
